@@ -42,6 +42,6 @@ Install: https://www.python.org/downloads/
 ### Pygame
 ```
 Version: 1.9.1
-Mac OSX install  Guide: https://gist.github.com/connorshea/f539c91f210e72077ca9
-Windows & UNIX install guide: https://www.pygame.org/wiki/GettingStarted
+Mac OSX install and guide: https://gist.github.com/connorshea/f539c91f210e72077ca9
+Windows & UNIX install and guide: https://www.pygame.org/wiki/GettingStarted
 ```
